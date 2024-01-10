@@ -5,4 +5,4 @@ I created this repository to solve [Project Euler](https://projecteuler.net) pro
 
   ## Solutions
 - [Problem 1: ](./Solutions/Problem%201)Multiples of 3 and 5
-- [Problem 2: ](./Solutions/Problem_2)Even Fibonacci numbers
+- [Problem 2: ](./Solutions/Problem%202)Even Fibonacci numbers
