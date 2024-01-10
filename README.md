@@ -1,1 +1,8 @@
+# C# Project Euler Solutions
 
+
+I created this repository to solve [Project Euler](https://projecteuler.net) problems in C# 
+
+  ## Solutions
+- [Problem 1: ](./Solutions/Problem_2)Multiples of 3 and 5
+- [Problem 2: ](./Solutions/Problem_2)Even Fibonacci numbers
